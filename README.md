@@ -1,6 +1,6 @@
 # Student-management-system-C-Plus
 
-##![pic1 sms](https://user-images.githubusercontent.com/12861265/194795973-5af7ff3a-954a-477e-9575-a1e33f55b57b.jpg)
+![pic1 sms](https://user-images.githubusercontent.com/12861265/194795973-5af7ff3a-954a-477e-9575-a1e33f55b57b.jpg)
 
 ![pic2 sms](https://user-images.githubusercontent.com/12861265/194796004-c0f16b47-a64d-4b5c-8fcf-f7c6efed7d1e.jpg)
 
